@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzndxtbF3rShqEN2Zcmh+o8pz8Ybj3+8Sn9yahV11Cl1LFu0QuEfZOmIxUTW5WUXNwJn6n/yBXa4LrkbNRbOGA==",
+  "dgSpecHash": "CT5XklE39KUTc6vEK4Skikc01iHphb9XMd68yHp5EtfwdiLvIVkE//XVu2KbkDgjus1hD88QjgMVKK+ctTTuug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshop\\Workshops\\Workshops\\Workshops.csproj",
+  "projectFilePath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshops\\Workshops\\Workshops\\Workshops.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beatr\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\beatr\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
