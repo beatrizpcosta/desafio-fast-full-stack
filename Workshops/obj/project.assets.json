@@ -3848,11 +3848,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beatr\\Desktop\\SistemaWorkshops\\Workshops\\Workshops\\Workshops.csproj",
+      "projectUniqueName": "C:\\Users\\beatr\\Desktop\\SistemaWorkshop\\Workshops\\Workshops\\Workshops.csproj",
       "projectName": "Workshops",
-      "projectPath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshops\\Workshops\\Workshops\\Workshops.csproj",
+      "projectPath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshop\\Workshops\\Workshops\\Workshops.csproj",
       "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshops\\Workshops\\Workshops\\obj\\",
+      "outputPath": "C:\\Users\\beatr\\Desktop\\SistemaWorkshop\\Workshops\\Workshops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
